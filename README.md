@@ -6,17 +6,19 @@
 
 ## Conceitos do Node.js
 
-<p> Solução do desafio sobre conceitos de NodeJs proposto no NV1 do bootcamp da RocketSeat
-</p>
-
-<p> Desafio foi feito em cima de um template disponibilizado pela rocketSeat.
-Tecnologias
-
-<ul>
-<li>**[Express](https://expressjs.com/)**</li>
-<li>**[uuidv4](https://github.com/thenativeweb/uuidv4)** para para gerar um ID dinâmico</li>
-<li> **[NodeMon](https://nodemon.io/)** para auxiliar na produtividade</li>
-<li>**[Jest](https://jestjs.io/)** e **[supertest](https://github.com/visionmedia/supertest)** para para fazer os teste da aplicação</li>
+ Solução do desafio sobre conceitos de NodeJs proposto no NV1 do bootcamp da [Rocketseat](https://rocketseat.com.br)
   
-</ul>
-</p>
+
+
+Desafio foi feito em cima de um [Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs) disponibilizado pela rocketSeat.
+
+## Tecnologias
+
+
+ - **[Express](www.google.com)**
+ - **[uuidv4](https://github.com/thenativeweb/uuidv4)** para para gerar um ID dinâmico
+ - **[NodeMon](https://nodemon.io/)** para auxiliar na produtividade
+ - **[Jest](https://jestjs.io/)** e **[supertest](https://github.com/visionmedia/supertest)** para para fazer os teste da aplicação
+  
+
+
